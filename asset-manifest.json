@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1f4bf40b.css",
+    "main.js": "/portfolio/static/js/main.f88ae175.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Subhan Saheb Shaik Video.mp4": "/portfolio/static/media/Subhan Saheb Shaik Video.b85628011a51a661f507.mp4",
+    "static/media/Subhan Saheb Shaik.png": "/portfolio/static/media/Subhan Saheb Shaik.ad47c679309cf51c19dc.png",
+    "static/media/Problem Solving(Basic)-Subhan Saheb Shaik-HackeRank.png": "/portfolio/static/media/Problem Solving(Basic)-Subhan Saheb Shaik-HackeRank.0661d80d101dceced2ed.png",
+    "static/media/SQL(Basic)-Subhan Saheb Shaik-HackerRank.png": "/portfolio/static/media/SQL(Basic)-Subhan Saheb Shaik-HackerRank.c34bab00cbc0b4d958a3.png",
+    "static/media/Python(Basic)-Subhan Saheb Shaik-HackerRank.png": "/portfolio/static/media/Python(Basic)-Subhan Saheb Shaik-HackerRank.1587db6b2da808d3fa49.png",
+    "static/media/Java(Basic)-Subhan Saheb Shaik-HackerRank.png": "/portfolio/static/media/Java(Basic)-Subhan Saheb Shaik-HackerRank.c91a7cab8a9a0c8ffcc7.png",
+    "static/media/Legacy Geeks-Subhan Saheb Shaik-JNTUK.jpg": "/portfolio/static/media/Legacy Geeks-Subhan Saheb Shaik-JNTUK.adc1d363ba1b8e2a43fb.jpg",
+    "static/media/The Fundamentas of Digital Marketing-Subhan Saheb Shaik-Google.png": "/portfolio/static/media/The Fundamentas of Digital Marketing-Subhan Saheb Shaik-Google.7b135cfd0b64f1ae4111.png",
+    "static/media/Quizexa-Subhan Saheb Shaik-JNTUK.png": "/portfolio/static/media/Quizexa-Subhan Saheb Shaik-JNTUK.fbcae1c49f8b3e620f7d.png",
+    "static/media/Basics of Python-Subhan Saheb Shaik-Edyst.png": "/portfolio/static/media/Basics of Python-Subhan Saheb Shaik-Edyst.31d551eb959b86706410.png",
+    "static/media/Django-Subhan Saheb Shaik-APSSDC.png": "/portfolio/static/media/Django-Subhan Saheb Shaik-APSSDC.9af240e2675a9cab24b2.png",
+    "static/media/Sense the NonSense-Subhan Saheb Shaik-SVEC.png": "/portfolio/static/media/Sense the NonSense-Subhan Saheb Shaik-SVEC.4eba32256ef9ddc42295.png",
+    "static/media/JS & React-Subhan Saheb Shaik-ShapeAI.png": "/portfolio/static/media/JS & React-Subhan Saheb Shaik-ShapeAI.03d26678301c5b72ae15.png",
+    "static/media/Python & ML-Subhan Saheb Shaik-ShapeAI.png": "/portfolio/static/media/Python & ML-Subhan Saheb Shaik-ShapeAI.6f1d477b176928296520.png",
+    "static/media/HackOverFlow2k22-Subhan Saheb Shaik-SVEC.png": "/portfolio/static/media/HackOverFlow2k22-Subhan Saheb Shaik-SVEC.5be604cd07c707b23d35.png",
+    "static/media/HackOverFlow2k23-Subhan Saheb Shaik-SVEC.png": "/portfolio/static/media/HackOverFlow2k23-Subhan Saheb Shaik-SVEC.53b15d9c51d0b7dfcfcc.png",
+    "static/media/AWS-Subhan Saheb Shaik-Brain O Vision.png": "/portfolio/static/media/AWS-Subhan Saheb Shaik-Brain O Vision.4aa255fea953779639ae.png",
+    "static/media/logo-Subhan Saheb Shaik(edited).png": "/portfolio/static/media/logo-Subhan Saheb Shaik(edited).70ef99223975f2a05708.png",
+    "static/media/mp2-Subhan Saheb Shaik-Project.jpeg": "/portfolio/static/media/mp2-Subhan Saheb Shaik-Project.712f6445b65f699849eb.jpeg",
+    "static/media/theTianzu-Subhan Saheb Shaik-Project.jpeg": "/portfolio/static/media/theTianzu-Subhan Saheb Shaik-Project.0f74ab7148d14e3e6ae5.jpeg",
+    "static/media/epms-Subhan Saheb Shaik-Project.jpg": "/portfolio/static/media/epms-Subhan Saheb Shaik-Project.1a289ec572a5f0450abf.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.1f4bf40b.css.map": "/portfolio/static/css/main.1f4bf40b.css.map",
+    "main.f88ae175.js.map": "/portfolio/static/js/main.f88ae175.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f4bf40b.css",
+    "static/js/main.f88ae175.js"
+  ]
+}
